@@ -1,3 +1,3 @@
 ## task1
 
-![./img/task1.png]
+![task1](./img/task1.png)
